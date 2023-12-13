@@ -1,0 +1,6 @@
+1=Warrior: Time to finish this once and for all! I must act quickly.
+2=Wizard: You seem to have grown stronger and can survive through tough challenges.
+3=Wizard: But your end has come today.
+4=Warrior: It's not too late to surrender and your brother will spare your life.
+5=Wizard: Surrender? That's not in my vocabulary.
+6=Warrior: I will defeat you in the name of justice.

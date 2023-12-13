@@ -1,0 +1,11 @@
+1=Click on the screen to fire in the desired direction.
+2=Press 'W' (up), 'A' (left), 'S' (down), and 'D' (right) to move.
+3=Keep away from enemy bullets, as they can cause damage.
+4=Well done! You have cleared the first wave of enemies.
+5=Continue your journey by moving right!
+6=Firing consumes energy, so use it wisely.
+7=Shield will protect you from attacks and will gradually increase.
+8=Keep an eye on your HP level, as losing all of it will end the game.
+9=Collecting game items can increase your HP or Energy values.
+10=Keep going. Shadow gate is close at hand.
+11=This is the Shadow Gate. Press 'E' for next stage.

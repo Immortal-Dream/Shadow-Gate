@@ -1,0 +1,5 @@
+1=Stay away from the green poisoned area as it will cause damage.
+2=Keep pushing forward, there's no turning back now.
+3=Monster: No one has ever survived my attack before.
+4=Warrior: Is that so? Let me prove you wrong and eliminate you.
+5=Get ready for the ultimate challenge! Press 'E' to enter the final stage.
